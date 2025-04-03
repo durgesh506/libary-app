@@ -1,7 +1,5 @@
 # MyLib - Library Management System
 
-This repository is Android Application of MyLib Project.<br>
-You can Find Back-end [Admin Panel Website](https://github.com/devarshukani/MyLib-AdminPanel) Code here
 
 MyLib is Library Management System with Android Application to User side and Admin Panel Website for Library Management team.
 
